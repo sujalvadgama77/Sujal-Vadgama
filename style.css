@@ -1,0 +1,50 @@
+li{
+	list-style: none;
+	display: inline;
+	margin: 100px;
+	font-size: 19px;
+}
+li a{
+	color: lightblue;
+	text-decoration: none;
+}
+header{
+	background-color: red;
+	padding: 6px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+li a:hover{
+	color: green;
+	text-decoration: none;
+	transition: 0.3s; 
+}
+hr{
+	color:black;
+	padding:1px;
+	background-color: black;
+}
+footer{
+	font-family: Verdana;
+}
+h1{
+	font-family: Verdana;
+}
+body{
+	font-family: Verdana;
+}
+.search{
+	width: 1330px;
+	border-radius: 15px;
+	border-color: black;
+}
+button{
+	border-radius: 15px;
+	background-color: #3399ff;
+	border-color: white;
+	margin-left: 12px;
+	font-size: 10px;
+	padding: 10px;	
+	height: px;
+}
